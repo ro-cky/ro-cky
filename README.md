@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ro-cky
 - 👀 I’m interested in ... Cyber Secruity, Networking, Malware
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... C/PY/GO
 
 - 📫 How to reach me ... Telegram @ro_ckyy
 
